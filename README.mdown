@@ -1,12 +1,13 @@
-== MMS Prompter
+# MMS Prompter
 Quick, dirty and unfinished (yet working :-) ) script that helps in finding a
 word for a given number according to mnemonic major system.
-==  What it currently can do:
-    
+
+##  What it currently can do:
+
 * Generate a file with all aspell words for given language (basic or
   extended)
 * Search any file for a pattern. Pattern is a pre-parsed (according
   to keywords, exceptions and other settings) regular expression, so its
   capabilities are quite powerfull and rather easy to use.
 
-== Copyright © 2010 Marcin Biernat. See LICENSE for details.
+Copyright © 2010 Marcin Biernat <biern.m@gmail.com>. See LICENSE for details.
